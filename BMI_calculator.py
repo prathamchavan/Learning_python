@@ -7,4 +7,4 @@ print((height))
 BMI = int(weight) / float(height)**2
 
 #type-conversion
-print(int(BMI))
+print(BMI)
